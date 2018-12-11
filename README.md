@@ -28,7 +28,7 @@ python main.py -r multi_match -m 3 -1 example_1.py -2 example_a.py
 ```
 
 ## Replay Recording
-All matches are recording in `recordings`. Use `replay` to visualize historical matches.
+All matches are recorded in `recordings` for later visualization.
 ```
 python main.py -r replay --recording 2018-12-10_22h44m26s__AI-name-here-1__vs__AI-name-here-a.txt
 ```
