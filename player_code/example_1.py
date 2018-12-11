@@ -5,7 +5,7 @@ import random
 class Player(PlayerBase):
     # example player AI
     def __init__(self, id):
-        super().__init__(id, "AI name here 1")
+        super().__init__(id, "AI name here 1", 'example_custom_basic.png', 'example_custom_king.png')
 
     def command_slime(self, state, slime, turn):
         # Move randomly
