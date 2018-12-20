@@ -1,19 +1,16 @@
 # Getting Started
-Pull this repo
-Go to 
-https://github.com/ikottman/slime_ai
+To get started you need to download this code. You can either use git or download the entire repository as a zip file.
 
-If you have git installed in your python IDE then use the command
+If you have git installed then clone the repository:
 ```
-git checkout https://github.com/ikottman/slime_ai.git
+git clone https://github.com/ikottman/slime_ai.git
 ```
 (If you don't yet have an IDE see the wiki of this page for suggestions on a good option.)
 
-Otherwise click on the green "Clone or Download" button and click the download as zip option.
-This will give you a zip folder with all the relevant files included. Unzip this folder where you would like the game to run from.
-(Note that you will need to get to this folder in your IDE before running any of the commands listed in this file or in the wiki.)
+Otherwise click on the green "Clone or Download" button and click the download as zip option. This will give you a zip file with all the relevant files included. Unzip this folder where you would like the game to run from.
+> Note that you will need to get to this folder in your IDE before running any of the commands listed in this file or in the wiki.
 
-Install dependencies
+# Install dependencies
 ```
 pip install -r requirements.txt
 ```
