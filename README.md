@@ -1,3 +1,6 @@
+# Welcome!
+For an overview of the game mechanics check out our [wiki](https://github.com/ikottman/slime_ai/wiki/Welcome-to-Slime-Mind!)
+
 # Getting Started
 To get started you need to download this code. You can either use git or download the entire repository as a zip file.
 
